@@ -1,0 +1,15 @@
+{
+  "originHash" : "115147f1c29c166904bf0474eb694fa1b18ec5fa70279c45d26186121072687b",
+  "pins" : [
+    {
+      "identity" : "ios_common_utilities_package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git.myn.global/app/ios-myn-2.0-packages/ios_common_utilities_package.git",
+      "state" : {
+        "branch" : "development",
+        "revision" : "5daa7e18c683557f42b4ed30a941fffe4b89e7fb"
+      }
+    }
+  ],
+  "version" : 3
+}
